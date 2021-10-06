@@ -1,4 +1,4 @@
-### samsung junior SW conteset
+### samsung junior SW conteset : [ 좋은말만해조 ]
 
 <!--
 **Jounmal/Jounmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
